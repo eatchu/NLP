@@ -21,14 +21,14 @@
 
 > Word Embedding의 [Word2Vec](./Word_Embedding.ipynb) 참고
 - **Skip-gram**
-<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/skip-gram.JPG" width="80%" height="60%">
+<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/skip-gram.JPG" width="70%" height="50%">
 
 - **SGNS(Skip-gram with Negative Sampling)**
-<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/sgns.JPG" width="80%" height="60%">
+<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/sgns.JPG" width="70%" height="50%">
 
 > 어텐션 메커니즘 [Attention Mechanism](./Attention.ipynb) 참고
 - **Attention**
-<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/attention.JPG" width="70%" height="50%">
+<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/attention.JPG" width="50%" height="40%">
 
 - **Bahdanau Attention**
-<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/bahdanau.jpg" width="70%" height="50%">
+<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/bahdanau.jpg" width="50%" height="40%">
