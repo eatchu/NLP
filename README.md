@@ -6,16 +6,14 @@
 아직 수정중에 있으며 계속 업데이트 되고 있습니다.
 
 
-> 전반적인 Text Preprocessing은 밑에 목차를 보고 jupyter file을 참고
+> 전반적인 Text Preprocessing은 밑에 목차를 보고 참고
   1. [Text Preprocessing1](./Text_Preprocessing_1.ipynb)
-  - Tokenization
-  - Cleaning and Nomalization
-  - Stemming and Lemmatization
-  - Stopword
-  - Regular Expression
   2. [Text Preprocessing2](./Text_Preprocessing_2.ipynb)
-  - Integer Encoding
-  - Padding
-  - One-Hot-Encoding
-  - Splitting Data
-  - Text Preprocessing Tools for Koreans Text
+
+> 통계기반의 전통적인 언어 모델에 대한 내용은 [Language Model](./Language_Model.ipynb) 참고
+
+> 카운트 기반의 단어 표현 방법은 [Count based word](./Count_based_word.ipynb) 참고
+- DTM(Document-Term Matrix)
+- TF-IDF(Term Frequency-Inverse Document Frequency)
+
+> 
