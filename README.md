@@ -11,10 +11,16 @@
   2. [Text Preprocessing2](./Text_Preprocessing_2.ipynb)
 
 > 통계기반의 전통적인 언어 모델에 대한 내용은 [Language Model](./Language_Model.ipynb) 참고
-![png](/assets/wordrepresentation.png)
 
 > 카운트 기반의 단어 표현 방법은 [Count based word](./Count_based_word.ipynb) 참고
+
+![png](/assets/wordrepresentation.png)
+
 - DTM(Document-Term Matrix)
+![dtm](/assets/DTM.JPG)
+
 - TF-IDF(Term Frequency-Inverse Document Frequency)
+![tfidf](/assets/TF-IDF.JPG)
+
 
 > 
