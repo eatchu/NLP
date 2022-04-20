@@ -17,7 +17,7 @@
 ![png](/assets/wordrepresentation.png)
 
 - DTM(Document-Term Matrix)
-![dtm](/assets/DTM.JPG){: width="300" height="150"}
+<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/DTM.JPG" width="300%" height="150%">
 
 - TF-IDF(Term Frequency-Inverse Document Frequency)
 ![tfidf](/assets/TF-IDF.JPG){: width="300" height="150"}
