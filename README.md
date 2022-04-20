@@ -32,7 +32,12 @@
 ## Attention
 > 어텐션 메커니즘 [Attention Mechanism](./Attention.ipynb) 참고
 - **Attention**
-<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/attention.JPG" width="50%" height="40%">
+<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/attention.JPG" width="50%" height="30%">
 
 - **Bahdanau Attention**
-<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/bahdanau.jpg" width="50%" height="40%">
+<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/bahdanau.jpg" width="50%" height="30%">
+
+## Transformer
+- **Transformer Encoder**
+<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/transformer-encoder.jpg" width="50%" height="70%">
+- **Transformer Decoder**
