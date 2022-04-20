@@ -16,17 +16,19 @@
 
 ![png](/assets/wordrepresentation.png)
 
-- **DTM(Document-Term Matrix)**
-<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/DTM.JPG" width="70%" height="40%">
-
-- **TF-IDF(Term Frequency-Inverse Document Frequency)**
-<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/TF-IDF.JPG" width="70%" height="50%">
 
 > 단어 벡터간의 다양한 유사도 방법은 [Vector Similarity](./Vector_Similarity.ipynb) 참고
 
 > Word Embedding의 [Word2Vec](./Word_Embedding.ipynb) 참고
 - **Skip-gram**
-<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/skip-gram.JPG" width="70%" height="50%">
+<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/skip-gram.JPG" width="80%" height="60%">
 
 - **SGNS(Skip-gram with Negative Sampling)**
-<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/sgns.JPG" width="70%" height="50%">
+<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/sgns.JPG" width="80%" height="60%">
+
+> 어텐션 메커니즘 [Attention Mechanism](./Attention.ipynb) 참고
+- **Attention**
+<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/attention.JPG" width="70%" height="50%">
+
+- **Bahdanau Attention**
+<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/bahdanau.jpg" width="70%" height="50%">
