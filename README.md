@@ -39,5 +39,5 @@
 
 ## Transformer
 - **Transformer Encoder**
-<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/transformer-encoder.jpg" width="50%" height="70%">
+<img src = "https://github.com/eatchu/Natural-Language-Processing-Basics/blob/master/assets/transformer-encoder.JPG" width="50%" height="70%">
 - **Transformer Decoder**
